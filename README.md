@@ -52,7 +52,6 @@ I enjoy taking ambiguous problem statements, structuring them into clear plans, 
 - Cross‑functional facilitation (Eng, Data, Product, Ops)  
 - Documentation, decision records, and playbooks  
 
-*(Adjust these lists to exactly match your real tools and experience.)*
 
 ---
 
@@ -64,7 +63,7 @@ I enjoy taking ambiguous problem statements, structuring them into clear plans, 
 - **Outcome:** _e.g. 50% reduction in manual triage time and more consistent routing._  
 - **Tech:** Python, LLM API, GitHub, CI/CD  
 
-👉 Repo: `[link-to-repo]`
+👉 Repo: ``
 
 ---
 
@@ -74,7 +73,7 @@ I enjoy taking ambiguous problem statements, structuring them into clear plans, 
 - **Outcome:** _e.g. Enabled prioritised outreach lists and early quick wins within first sprints._  
 - **Tech:** Python, Pandas, notebooks, BI / dashboard tool  
 
-👉 Repo: `[link-to-repo]`
+👉 Repo: ``
 
 ---
 
@@ -84,7 +83,7 @@ I enjoy taking ambiguous problem statements, structuring them into clear plans, 
 - **Outcome:** _e.g. Reduced average search time, increased self‑service usage._  
 - **Tech:** Python, embeddings / LLM, simple web frontend or chat interface  
 
-👉 Repo: `[link-to-repo]`
+👉 Repo: ``
 
 *(Replace with your real projects, rename them, and add concrete outcomes where possible.)*
 
@@ -101,5 +100,5 @@ I enjoy taking ambiguous problem statements, structuring them into clear plans, 
 
 ## 🌍 About Me
 
-- Based in: `<Your City / Country>`  
+- Based in: Germany  
 - Interested in: AI project management, technical program management, ML/LLM product deli
